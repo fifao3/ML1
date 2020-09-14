@@ -31,7 +31,7 @@ distributed==2.5.2
 entrypoints==0.3
 fastcache==1.1.0
 gast==0.2.2
-gmpy2==2.1.0b1
+gmpy2
 google-auth==1.21.1
 google-auth-oauthlib==0.4.1
 google-pasta==0.2.0
